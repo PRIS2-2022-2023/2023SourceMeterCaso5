@@ -1,0 +1,15 @@
+[2022-04-02 19:06:20] Start:JAN2limTask
+JAN2Lim 10.0.0 (Build:f8fa7a1c28) - (C) 2001-2021 FrontEndART Ltd.
+Integrated 3rd party tool(s): SonarQube
+The component structure  hasn't built.
+Loading file:    C:\Users\Deyan\Downloads\junit4-r4.13.1\.columbus_java\JUNITMETRICS14.3.1.ljsi
+
+Statistics:
+	Converting time              :      33.65s
+	Saving asg time              :       1.11s
+	Dumping limml time           :       0.00s
+	Total time                   :      34.76s
+	Peak memory usage            :     123.52MB
+	Number of not existed files  :          0
+
+[2022-04-02 19:06:55] End:JAN2limTask Result:OK

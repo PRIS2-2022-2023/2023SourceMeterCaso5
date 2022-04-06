@@ -1,0 +1,12 @@
+[2022-04-02 17:20:35] Start:Lim2metricsTask
+LIM2Metrics 10.0.0 Java (Build:f8fa7a1c28) - (C) 2001-2021 FrontEndART Ltd.
+Integrated 3rd party tool(s): SonarQube
+Saving graph to C:\Users\Deyan\Downloads\JUNIT\java\2022-04-02-17-17-08\sourcemeter\graph\JUNIT-metrics.graph
+Exporting rul
+
+Statistics:
+	Calculation time         :       5.41s
+	Export time              :       0.51s
+	Total time               :       7.90s
+	Peak memory usage        :      93.96MB
+[2022-04-02 17:20:44] End:Lim2metricsTask Result:OK

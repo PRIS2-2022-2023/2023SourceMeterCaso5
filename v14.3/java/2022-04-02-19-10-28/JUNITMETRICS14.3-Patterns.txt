@@ -1,0 +1,413 @@
+Total matches: 101
+Blob matches: 2
+LongFunction matches: 2
+featureEnvy matches: 3
+refusedBeq matches: 2
+shotgun matches: 92
+
+Pattern 'shotgun' has been found on 'ComparisonCompactor(int contextLength, String expected, String actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\ComparisonCompactor.java [Ln:15, Col:5 - Ln:19, Col:6]
+Role 'shotgunMethod' fits on 'ComparisonCompactor(int contextLength, String expected, String actual)' (nodeid '579'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\ComparisonCompactor.java [Ln:15, Col:5 - Ln:19, Col:6]
+
+Pattern 'shotgun' has been found on 'String compact(String message)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\ComparisonCompactor.java [Ln:21, Col:5 - Ln:32, Col:6]
+Role 'shotgunMethod' fits on 'String compact(String message)' (nodeid '586'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\ComparisonCompactor.java [Ln:21, Col:5 - Ln:32, Col:6]
+
+Pattern 'shotgun' has been found on 'JUnit4TestAdapter(Class<?> newTestClass)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\JUnit4TestAdapter.java [Ln:35, Col:5 - Ln:37, Col:6]
+Role 'shotgunMethod' fits on 'JUnit4TestAdapter(Class<?> newTestClass)' (nodeid '661'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\JUnit4TestAdapter.java [Ln:35, Col:5 - Ln:37, Col:6]
+
+Pattern 'shotgun' has been found on 'void run(TestResult result)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\Test.java [Ln:17, Col:5 - Ln:17, Col:49]
+Role 'shotgunMethod' fits on 'void run(TestResult result)' (nodeid '189'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\Test.java [Ln:17, Col:5 - Ln:17, Col:49]
+
+Pattern 'shotgun' has been found on 'void assertTrue(boolean condition)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:199, Col:5 - Ln:201, Col:6]
+Role 'shotgunMethod' fits on 'void assertTrue(boolean condition)' (nodeid '939'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:199, Col:5 - Ln:201, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertFalse(boolean condition)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:215, Col:5 - Ln:217, Col:6]
+Role 'shotgunMethod' fits on 'void assertFalse(boolean condition)' (nodeid '947'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:215, Col:5 - Ln:217, Col:6]
+
+Pattern 'shotgun' has been found on 'void fail()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:229, Col:5 - Ln:231, Col:6]
+Role 'shotgunMethod' fits on 'void fail()' (nodeid '953'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:229, Col:5 - Ln:231, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertEquals(Object expected, Object actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:245, Col:5 - Ln:247, Col:6]
+Role 'shotgunMethod' fits on 'void assertEquals(Object expected, Object actual)' (nodeid '961'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:245, Col:5 - Ln:247, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertEquals(String expected, String actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:259, Col:5 - Ln:261, Col:6]
+Role 'shotgunMethod' fits on 'void assertEquals(String expected, String actual)' (nodeid '971'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:259, Col:5 - Ln:261, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertEquals(double expected, double actual, double delta)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:276, Col:5 - Ln:278, Col:6]
+Role 'shotgunMethod' fits on 'void assertEquals(double expected, double actual, double delta)' (nodeid '982'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:276, Col:5 - Ln:278, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertEquals(int expected, int actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:383, Col:5 - Ln:385, Col:6]
+Role 'shotgunMethod' fits on 'void assertEquals(int expected, int actual)' (nodeid '1055'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestCase.java [Ln:383, Col:5 - Ln:385, Col:6]
+
+Pattern 'shotgun' has been found on 'TestResult()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:24, Col:5 - Ln:30, Col:6]
+Role 'shotgunMethod' fits on 'TestResult()' (nodeid '883'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:24, Col:5 - Ln:30, Col:6]
+
+Pattern 'shotgun' has been found on 'int errorCount()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:89, Col:5 - Ln:91, Col:6]
+Role 'shotgunMethod' fits on 'int errorCount()' (nodeid '1213'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:89, Col:5 - Ln:91, Col:6]
+
+Pattern 'shotgun' has been found on 'int failureCount()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:104, Col:5 - Ln:106, Col:6]
+Role 'shotgunMethod' fits on 'int failureCount()' (nodeid '1227'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:104, Col:5 - Ln:106, Col:6]
+
+Pattern 'shotgun' has been found on 'int runCount()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:133, Col:5 - Ln:135, Col:6]
+Role 'shotgunMethod' fits on 'int runCount()' (nodeid '1238'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:133, Col:5 - Ln:135, Col:6]
+
+Pattern 'shotgun' has been found on 'boolean wasSuccessful()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:182, Col:5 - Ln:184, Col:6]
+Role 'shotgunMethod' fits on 'boolean wasSuccessful()' (nodeid '1254'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestResult.java [Ln:182, Col:5 - Ln:184, Col:6]
+
+Pattern 'shotgun' has been found on 'TestSuite()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestSuite.java [Ln:108, Col:5 - Ln:109, Col:6]
+Role 'shotgunMethod' fits on 'TestSuite()' (nodeid '131'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestSuite.java [Ln:108, Col:5 - Ln:109, Col:6]
+
+Pattern 'shotgun' has been found on 'TestSuite(Class<?> theClass)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestSuite.java [Ln:117, Col:5 - Ln:119, Col:6]
+Role 'shotgunMethod' fits on 'TestSuite(Class<?> theClass)' (nodeid '144'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestSuite.java [Ln:117, Col:5 - Ln:119, Col:6]
+
+Pattern 'shotgun' has been found on 'void addTest(Test test)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestSuite.java [Ln:197, Col:5 - Ln:199, Col:6]
+Role 'shotgunMethod' fits on 'void addTest(Test test)' (nodeid '788'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\framework\TestSuite.java [Ln:197, Col:5 - Ln:199, Col:6]
+
+Pattern 'LongFunction' has been found on 'Test getTest(String suiteClassName)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\runner\BaseTestRunner.java [Ln:95, Col:5 - Ln:142, Col:6]
+Role 'longFunc' fits on 'Test getTest(String suiteClassName)' (nodeid '1481'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\runner\BaseTestRunner.java [Ln:95, Col:5 - Ln:142, Col:6]
+
+Pattern 'shotgun' has been found on 'PrintStream getWriter()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\textui\ResultPrinter.java [Ln:102, Col:5 - Ln:104, Col:6]
+Role 'shotgunMethod' fits on 'PrintStream getWriter()' (nodeid '1673'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\junit\textui\ResultPrinter.java [Ln:102, Col:5 - Ln:104, Col:6]
+
+Pattern 'shotgun' has been found on 'Money(int amount, String currency)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\junit\samples\money\Money.java [Ln:14, Col:5 - Ln:17, Col:6]
+Role 'shotgunMethod' fits on 'Money(int amount, String currency)' (nodeid '1922'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\junit\samples\money\Money.java [Ln:14, Col:5 - Ln:17, Col:6]
+
+Pattern 'shotgun' has been found on 'IMoney create(IMoney m1, IMoney m2)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\junit\samples\money\MoneyBag.java [Ln:20, Col:5 - Ln:25, Col:6]
+Role 'shotgunMethod' fits on 'IMoney create(IMoney m1, IMoney m2)' (nodeid '1939'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\junit\samples\money\MoneyBag.java [Ln:20, Col:5 - Ln:25, Col:6]
+
+Pattern 'Blob' has been found on 'Assert'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:25, Col:1 - Ln:1034, Col:2]
+Role 'BlobClass' fits on 'Assert' (nodeid '2997'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:25, Col:1 - Ln:1034, Col:2]
+
+Pattern 'shotgun' has been found on 'void assertTrue(String message, boolean condition)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:40, Col:5 - Ln:44, Col:6]
+Role 'shotgunMethod' fits on 'void assertTrue(String message, boolean condition)' (nodeid '3001'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:40, Col:5 - Ln:44, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertTrue(boolean condition)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:52, Col:5 - Ln:54, Col:6]
+Role 'shotgunMethod' fits on 'void assertTrue(boolean condition)' (nodeid '3007'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:52, Col:5 - Ln:54, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertFalse(boolean condition)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:74, Col:5 - Ln:76, Col:6]
+Role 'shotgunMethod' fits on 'void assertFalse(boolean condition)' (nodeid '3015'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:74, Col:5 - Ln:76, Col:6]
+
+Pattern 'shotgun' has been found on 'void fail(String message)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:85, Col:5 - Ln:90, Col:6]
+Role 'shotgunMethod' fits on 'void fail(String message)' (nodeid '3005'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:85, Col:5 - Ln:90, Col:6]
+
+Pattern 'shotgun' has been found on 'void fail()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:95, Col:5 - Ln:97, Col:6]
+Role 'shotgunMethod' fits on 'void fail()' (nodeid '3021'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:95, Col:5 - Ln:97, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertEquals(String message, Object expected, Object actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:110, Col:5 - Ln:122, Col:6]
+Role 'shotgunMethod' fits on 'void assertEquals(String message, Object expected, Object actual)' (nodeid '3023'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:110, Col:5 - Ln:122, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertEquals(Object expected, Object actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:145, Col:5 - Ln:147, Col:6]
+Role 'shotgunMethod' fits on 'void assertEquals(Object expected, Object actual)' (nodeid '3043'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:145, Col:5 - Ln:147, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertNotEquals(Object unexpected, Object actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:176, Col:5 - Ln:178, Col:6]
+Role 'shotgunMethod' fits on 'void assertNotEquals(Object unexpected, Object actual)' (nodeid '3055'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:176, Col:5 - Ln:178, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertEquals(long expected, long actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:632, Col:5 - Ln:634, Col:6]
+Role 'shotgunMethod' fits on 'void assertEquals(long expected, long actual)' (nodeid '3247'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:632, Col:5 - Ln:634, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertEquals(String message, long expected, long actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:645, Col:5 - Ln:649, Col:6]
+Role 'shotgunMethod' fits on 'void assertEquals(String message, long expected, long actual)' (nodeid '3251'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:645, Col:5 - Ln:649, Col:6]
+
+Pattern 'shotgun' has been found on 'void assertSame(Object expected, Object actual)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:782, Col:5 - Ln:784, Col:6]
+Role 'shotgunMethod' fits on 'void assertSame(Object expected, Object actual)' (nodeid '3306'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:782, Col:5 - Ln:784, Col:6]
+
+Pattern 'shotgun' has been found on '<T extends Object> void assertThat(String reason, T actual, Matcher<? super T> matcher)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:961, Col:5 - Ln:965, Col:6]
+Role 'shotgunMethod' fits on '<T extends Object> void assertThat(String reason, T actual, Matcher<? super T> matcher)' (nodeid '3362'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:961, Col:5 - Ln:965, Col:6]
+
+Pattern 'shotgun' has been found on '<T extends Throwable> T assertThrows(Class<T> expectedThrowable, ThrowingRunnable runnable)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:979, Col:5 - Ln:982, Col:6]
+Role 'shotgunMethod' fits on '<T extends Throwable> T assertThrows(Class<T> expectedThrowable, ThrowingRunnable runnable)' (nodeid '3372'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assert.java [Ln:979, Col:5 - Ln:982, Col:6]
+
+Pattern 'shotgun' has been found on 'void assumeTrue(boolean b)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assume.java [Ln:49, Col:5 - Ln:51, Col:6]
+Role 'shotgunMethod' fits on 'void assumeTrue(boolean b)' (nodeid '2802'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assume.java [Ln:49, Col:5 - Ln:51, Col:6]
+
+Pattern 'shotgun' has been found on '<T extends Object> void assumeThat(T actual, Matcher<T> matcher)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assume.java [Ln:104, Col:5 - Ln:108, Col:6]
+Role 'shotgunMethod' fits on '<T extends Object> void assumeThat(T actual, Matcher<T> matcher)' (nodeid '3417'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\Assume.java [Ln:104, Col:5 - Ln:108, Col:6]
+
+Pattern 'shotgun' has been found on 'PrintableResult testResult(Class<?> type)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\results\PrintableResult.java [Ln:28, Col:5 - Ln:30, Col:6]
+Role 'shotgunMethod' fits on 'PrintableResult testResult(Class<?> type)' (nodeid '4106'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\results\PrintableResult.java [Ln:28, Col:5 - Ln:30, Col:6]
+
+Pattern 'shotgun' has been found on 'Matcher<PrintableResult> isSuccessful()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\results\ResultMatchers.java [Ln:30, Col:5 - Ln:32, Col:6]
+Role 'shotgunMethod' fits on 'Matcher<PrintableResult> isSuccessful()' (nodeid '4110'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\results\ResultMatchers.java [Ln:30, Col:5 - Ln:32, Col:6]
+
+Pattern 'shotgun' has been found on 'Matcher<PrintableResult> failureCountIs(int count)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\results\ResultMatchers.java [Ln:37, Col:5 - Ln:48, Col:6]
+Role 'shotgunMethod' fits on 'Matcher<PrintableResult> failureCountIs(int count)' (nodeid '4284'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\results\ResultMatchers.java [Ln:37, Col:5 - Ln:48, Col:6]
+
+Pattern 'shotgun' has been found on 'Matcher<Object> hasSingleFailureContaining(String string)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\results\ResultMatchers.java [Ln:53, Col:5 - Ln:63, Col:6]
+Role 'shotgunMethod' fits on 'Matcher<Object> hasSingleFailureContaining(String string)' (nodeid '4899'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\results\ResultMatchers.java [Ln:53, Col:5 - Ln:63, Col:6]
+
+Pattern 'shotgun' has been found on 'PotentialAssignment forValue(String name, Object value)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\theories\PotentialAssignment.java [Ln:17, Col:5 - Ln:47, Col:6]
+Role 'shotgunMethod' fits on 'PotentialAssignment forValue(String name, Object value)' (nodeid '5090'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\experimental\theories\PotentialAssignment.java [Ln:17, Col:5 - Ln:47, Col:6]
+
+Pattern 'shotgun' has been found on 'AssumptionViolatedException(String assumption)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\internal\AssumptionViolatedException.java [Ln:70, Col:5 - Ln:73, Col:6]
+Role 'shotgunMethod' fits on 'AssumptionViolatedException(String assumption)' (nodeid '3489'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\internal\AssumptionViolatedException.java [Ln:70, Col:5 - Ln:73, Col:6]
+
+Pattern 'LongFunction' has been found on 'void arrayEquals(String message, Object expecteds, Object actuals, boolean outer)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\internal\ComparisonCriteria.java [Ln:31, Col:5 - Ln:92, Col:6]
+Role 'longFunc' fits on 'void arrayEquals(String message, Object expecteds, Object actuals, boolean outer)' (nodeid '5954'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\internal\ComparisonCriteria.java [Ln:31, Col:5 - Ln:92, Col:6]
+
+Pattern 'shotgun' has been found on 'void validate(TestClass target, List<Throwable> errors)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\internal\runners\rules\RuleMemberValidator.java [Ln:88, Col:5 - Ln:95, Col:6]
+Role 'shotgunMethod' fits on 'void validate(TestClass target, List<Throwable> errors)' (nodeid '6976'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\internal\runners\rules\RuleMemberValidator.java [Ln:88, Col:5 - Ln:95, Col:6]
+
+Pattern 'shotgun' has been found on 'ExpectedException none()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\ExpectedException.java [Ln:121, Col:5 - Ln:124, Col:6]
+Role 'shotgunMethod' fits on 'ExpectedException none()' (nodeid '4034'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\ExpectedException.java [Ln:121, Col:5 - Ln:124, Col:6]
+
+Pattern 'shotgun' has been found on 'void expect(Matcher<?> matcher)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\ExpectedException.java [Ln:183, Col:5 - Ln:185, Col:6]
+Role 'shotgunMethod' fits on 'void expect(Matcher<?> matcher)' (nodeid '4058'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\ExpectedException.java [Ln:183, Col:5 - Ln:185, Col:6]
+
+Pattern 'shotgun' has been found on 'void expectMessage(String substring)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\ExpectedException.java [Ln:209, Col:5 - Ln:211, Col:6]
+Role 'shotgunMethod' fits on 'void expectMessage(String substring)' (nodeid '8272'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\ExpectedException.java [Ln:209, Col:5 - Ln:211, Col:6]
+
+Pattern 'shotgun' has been found on 'TemporaryFolder()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\TemporaryFolder.java [Ln:54, Col:5 - Ln:56, Col:6]
+Role 'shotgunMethod' fits on 'TemporaryFolder()' (nodeid '8490'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\TemporaryFolder.java [Ln:54, Col:5 - Ln:56, Col:6]
+
+Pattern 'shotgun' has been found on 'void create()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\TemporaryFolder.java [Ln:146, Col:5 - Ln:148, Col:6]
+Role 'shotgunMethod' fits on 'void create()' (nodeid '8525'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\TemporaryFolder.java [Ln:146, Col:5 - Ln:148, Col:6]
+
+Pattern 'shotgun' has been found on 'File getRoot()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\TemporaryFolder.java [Ln:256, Col:5 - Ln:262, Col:6]
+Role 'shotgunMethod' fits on 'File getRoot()' (nodeid '8540'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\rules\TemporaryFolder.java [Ln:256, Col:5 - Ln:262, Col:6]
+
+Pattern 'refusedBeq' has been found on 'RuleMemberValidatorTest$TestWithProtectedClassRule'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\rules\RuleMemberValidatorTest.java [Ln:29, Col:5 - Ln:32, Col:6]
+Role 'refBeqClass' fits on 'RuleMemberValidatorTest$TestWithProtectedClassRule' (nodeid '10000'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\rules\RuleMemberValidatorTest.java [Ln:29, Col:5 - Ln:32, Col:6]
+	Role 'attributeIsNotUsed' fits on 'temporaryFolder' (nodeid '10009'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\rules\RuleMemberValidatorTest.java [Ln:30, Col:9 - Ln:31, Col:75]
+
+Pattern 'shotgun' has been found on 'void assertOneErrorWithMessage(String message)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\rules\RuleMemberValidatorTest.java [Ln:342, Col:5 - Ln:345, Col:6]
+Role 'shotgunMethod' fits on 'void assertOneErrorWithMessage(String message)' (nodeid '10006'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\rules\RuleMemberValidatorTest.java [Ln:342, Col:5 - Ln:345, Col:6]
+
+Pattern 'shotgun' has been found on 'Description createSuiteDescription(String name, Annotation[] annotations)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:44, Col:5 - Ln:46, Col:6]
+Role 'shotgunMethod' fits on 'Description createSuiteDescription(String name, Annotation[] annotations)' (nodeid '4047'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:44, Col:5 - Ln:46, Col:6]
+
+Pattern 'shotgun' has been found on 'Description createTestDescription(Class<?> clazz, String name)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:98, Col:5 - Ln:100, Col:6]
+Role 'shotgunMethod' fits on 'Description createTestDescription(Class<?> clazz, String name)' (nodeid '6563'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:98, Col:5 - Ln:100, Col:6]
+
+Pattern 'shotgun' has been found on 'String getDisplayName()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:183, Col:5 - Ln:185, Col:6]
+Role 'shotgunMethod' fits on 'String getDisplayName()' (nodeid '786'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:183, Col:5 - Ln:185, Col:6]
+
+Pattern 'shotgun' has been found on 'ArrayList<Description> getChildren()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:200, Col:5 - Ln:202, Col:6]
+Role 'shotgunMethod' fits on 'ArrayList<Description> getChildren()' (nodeid '717'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:200, Col:5 - Ln:202, Col:6]
+
+Pattern 'shotgun' has been found on 'String toString()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:246, Col:5 - Ln:249, Col:6]
+Role 'shotgunMethod' fits on 'String toString()' (nodeid '848'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:246, Col:5 - Ln:249, Col:6]
+
+Pattern 'shotgun' has been found on 'String getMethodName()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:318, Col:5 - Ln:320, Col:6]
+Role 'shotgunMethod' fits on 'String getMethodName()' (nodeid '4632'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Description.java [Ln:318, Col:5 - Ln:320, Col:6]
+
+Pattern 'shotgun' has been found on 'Result runClasses(Class<?>[] classes)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\JUnitCore.java [Ln:48, Col:5 - Ln:50, Col:6]
+Role 'shotgunMethod' fits on 'Result runClasses(Class<?>[] classes)' (nodeid '4135'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\JUnitCore.java [Ln:48, Col:5 - Ln:50, Col:6]
+
+Pattern 'shotgun' has been found on 'Result run(Class<?>[] classes)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\JUnitCore.java [Ln:93, Col:5 - Ln:95, Col:6]
+Role 'shotgunMethod' fits on 'Result run(Class<?>[] classes)' (nodeid '2713'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\JUnitCore.java [Ln:93, Col:5 - Ln:95, Col:6]
+
+Pattern 'shotgun' has been found on 'Result run(Request request)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\JUnitCore.java [Ln:114, Col:5 - Ln:116, Col:6]
+Role 'shotgunMethod' fits on 'Result run(Request request)' (nodeid '4157'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\JUnitCore.java [Ln:114, Col:5 - Ln:116, Col:6]
+
+Pattern 'shotgun' has been found on 'void addListener(RunListener listener)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\JUnitCore.java [Ln:151, Col:5 - Ln:153, Col:6]
+Role 'shotgunMethod' fits on 'void addListener(RunListener listener)' (nodeid '4570'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\JUnitCore.java [Ln:151, Col:5 - Ln:153, Col:6]
+
+Pattern 'shotgun' has been found on 'Failure(Description description, Throwable thrownException)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:34, Col:5 - Ln:37, Col:6]
+Role 'shotgunMethod' fits on 'Failure(Description description, Throwable thrownException)' (nodeid '6463'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:34, Col:5 - Ln:37, Col:6]
+
+Pattern 'shotgun' has been found on 'Description getDescription()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:49, Col:5 - Ln:51, Col:6]
+Role 'shotgunMethod' fits on 'Description getDescription()' (nodeid '817'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:49, Col:5 - Ln:51, Col:6]
+
+Pattern 'shotgun' has been found on 'Throwable getException()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:57, Col:5 - Ln:59, Col:6]
+Role 'shotgunMethod' fits on 'Throwable getException()' (nodeid '819'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:57, Col:5 - Ln:59, Col:6]
+
+Pattern 'shotgun' has been found on 'String getTrimmedTrace()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:78, Col:5 - Ln:80, Col:6]
+Role 'shotgunMethod' fits on 'String getTrimmedTrace()' (nodeid '7551'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:78, Col:5 - Ln:80, Col:6]
+
+Pattern 'shotgun' has been found on 'String getMessage()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:87, Col:5 - Ln:89, Col:6]
+Role 'shotgunMethod' fits on 'String getMessage()' (nodeid '9383'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\Failure.java [Ln:87, Col:5 - Ln:89, Col:6]
+
+Pattern 'shotgun' has been found on 'void addListener(RunListener listener)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\RunNotifier.java [Ln:28, Col:5 - Ln:33, Col:6]
+Role 'shotgunMethod' fits on 'void addListener(RunListener listener)' (nodeid '800'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\RunNotifier.java [Ln:28, Col:5 - Ln:33, Col:6]
+
+Pattern 'shotgun' has been found on 'void fireTestStarted(Description description)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\RunNotifier.java [Ln:149, Col:5 - Ln:159, Col:6]
+Role 'shotgunMethod' fits on 'void fireTestStarted(Description description)' (nodeid '6525'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\notification\RunNotifier.java [Ln:149, Col:5 - Ln:159, Col:6]
+
+Pattern 'shotgun' has been found on 'Request aClass(Class<?> clazz)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:51, Col:5 - Ln:53, Col:6]
+Role 'shotgunMethod' fits on 'Request aClass(Class<?> clazz)' (nodeid '4153'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:51, Col:5 - Ln:53, Col:6]
+
+Pattern 'shotgun' has been found on 'Runner getRunner()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:122, Col:5 - Ln:122, Col:40]
+Role 'shotgunMethod' fits on 'Runner getRunner()' (nodeid '672'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:122, Col:5 - Ln:122, Col:40]
+
+Pattern 'shotgun' has been found on 'Request filterWith(Filter filter)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:131, Col:5 - Ln:133, Col:6]
+Role 'shotgunMethod' fits on 'Request filterWith(Filter filter)' (nodeid '4159'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:131, Col:5 - Ln:133, Col:6]
+
+Pattern 'shotgun' has been found on 'Request sortWith(Comparator<Description> comparator)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:171, Col:5 - Ln:173, Col:6]
+Role 'shotgunMethod' fits on 'Request sortWith(Comparator<Description> comparator)' (nodeid '12116'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:171, Col:5 - Ln:173, Col:6]
+
+Pattern 'shotgun' has been found on 'Request orderWith(Ordering ordering)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:199, Col:5 - Ln:201, Col:6]
+Role 'shotgunMethod' fits on 'Request orderWith(Ordering ordering)' (nodeid '12120'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Request.java [Ln:199, Col:5 - Ln:201, Col:6]
+
+Pattern 'shotgun' has been found on 'int getRunCount()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:60, Col:5 - Ln:62, Col:6]
+Role 'shotgunMethod' fits on 'int getRunCount()' (nodeid '2812'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:60, Col:5 - Ln:62, Col:6]
+
+Pattern 'shotgun' has been found on 'int getFailureCount()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:67, Col:5 - Ln:69, Col:6]
+Role 'shotgunMethod' fits on 'int getFailureCount()' (nodeid '2815'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:67, Col:5 - Ln:69, Col:6]
+
+Pattern 'shotgun' has been found on 'List<Failure> getFailures()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:81, Col:5 - Ln:83, Col:6]
+Role 'shotgunMethod' fits on 'List<Failure> getFailures()' (nodeid '2822'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:81, Col:5 - Ln:83, Col:6]
+
+Pattern 'shotgun' has been found on 'int getIgnoreCount()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:88, Col:5 - Ln:90, Col:6]
+Role 'shotgunMethod' fits on 'int getIgnoreCount()' (nodeid '2825'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:88, Col:5 - Ln:90, Col:6]
+
+Pattern 'shotgun' has been found on 'boolean wasSuccessful()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:109, Col:5 - Ln:111, Col:6]
+Role 'shotgunMethod' fits on 'boolean wasSuccessful()' (nodeid '4139'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Result.java [Ln:109, Col:5 - Ln:111, Col:6]
+
+Pattern 'shotgun' has been found on 'Description getDescription()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Runner.java [Ln:27, Col:5 - Ln:27, Col:50]
+Role 'shotgunMethod' fits on 'Description getDescription()' (nodeid '702'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Runner.java [Ln:27, Col:5 - Ln:27, Col:50]
+
+Pattern 'shotgun' has been found on 'int testCount()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Runner.java [Ln:40, Col:5 - Ln:42, Col:6]
+Role 'shotgunMethod' fits on 'int testCount()' (nodeid '677'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runner\Runner.java [Ln:40, Col:5 - Ln:42, Col:6]
+
+Pattern 'shotgun' has been found on 'BlockJUnit4ClassRunner(Class<?> testClass)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\BlockJUnit4ClassRunner.java [Ln:73, Col:5 - Ln:75, Col:6]
+Role 'shotgunMethod' fits on 'BlockJUnit4ClassRunner(Class<?> testClass)' (nodeid '4169'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\BlockJUnit4ClassRunner.java [Ln:73, Col:5 - Ln:75, Col:6]
+
+Pattern 'shotgun' has been found on 'Object invokeExplosively(Object target, Object[] params)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\FrameworkMethod.java [Ln:54, Col:5 - Ln:62, Col:6]
+Role 'shotgunMethod' fits on 'Object invokeExplosively(Object target, Object[] params)' (nodeid '5005'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\FrameworkMethod.java [Ln:54, Col:5 - Ln:62, Col:6]
+
+Pattern 'shotgun' has been found on 'String getName()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\FrameworkMethod.java [Ln:67, Col:5 - Ln:70, Col:6]
+Role 'shotgunMethod' fits on 'String getName()' (nodeid '5017'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\FrameworkMethod.java [Ln:67, Col:5 - Ln:70, Col:6]
+
+Pattern 'shotgun' has been found on '<T extends Annotation> T getAnnotation(Class<T> annotationType)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\FrameworkMethod.java [Ln:208, Col:5 - Ln:210, Col:6]
+Role 'shotgunMethod' fits on '<T extends Annotation> T getAnnotation(Class<T> annotationType)' (nodeid '5009'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\FrameworkMethod.java [Ln:208, Col:5 - Ln:210, Col:6]
+
+Pattern 'shotgun' has been found on 'void evaluate()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\Statement.java [Ln:14, Col:5 - Ln:14, Col:54]
+Role 'shotgunMethod' fits on 'void evaluate()' (nodeid '5561'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\Statement.java [Ln:14, Col:5 - Ln:14, Col:54]
+
+Pattern 'shotgun' has been found on 'TestClass(Class<?> clazz)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\TestClass.java [Ln:45, Col:5 - Ln:61, Col:6]
+Role 'shotgunMethod' fits on 'TestClass(Class<?> clazz)' (nodeid '4363'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\TestClass.java [Ln:45, Col:5 - Ln:61, Col:6]
+
+Pattern 'shotgun' has been found on 'List<FrameworkMethod> getAnnotatedMethods(Class<? extends Annotation> annotationClass)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\TestClass.java [Ln:125, Col:5 - Ln:128, Col:6]
+Role 'shotgunMethod' fits on 'List<FrameworkMethod> getAnnotatedMethods(Class<? extends Annotation> annotationClass)' (nodeid '4358'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\TestClass.java [Ln:125, Col:5 - Ln:128, Col:6]
+
+Pattern 'shotgun' has been found on 'Class<?> getJavaClass()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\TestClass.java [Ln:184, Col:5 - Ln:186, Col:6]
+Role 'shotgunMethod' fits on 'Class<?> getJavaClass()' (nodeid '5480'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\model\TestClass.java [Ln:184, Col:5 - Ln:186, Col:6]
+
+Pattern 'shotgun' has been found on 'TestWithParameters(String name, TestClass testClass, List<Object> parameters)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\parameterized\TestWithParameters.java [Ln:25, Col:5 - Ln:33, Col:6]
+Role 'shotgunMethod' fits on 'TestWithParameters(String name, TestClass testClass, List<Object> parameters)' (nodeid '13614'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\parameterized\TestWithParameters.java [Ln:25, Col:5 - Ln:33, Col:6]
+
+Pattern 'shotgun' has been found on 'TestClass getTestClass()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\ParentRunner.java [Ln:354, Col:5 - Ln:356, Col:6]
+Role 'shotgunMethod' fits on 'TestClass getTestClass()' (nodeid '5482'), C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\runners\ParentRunner.java [Ln:354, Col:5 - Ln:356, Col:6]
+
+Pattern 'Blob' has been found on 'AssertionTest'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\assertion\AssertionTest.java [Ln:29, Col:1 - Ln:1005, Col:2]
+Role 'BlobClass' fits on 'AssertionTest' (nodeid '14660'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\assertion\AssertionTest.java [Ln:29, Col:1 - Ln:1005, Col:2]
+
+Pattern 'shotgun' has been found on 'void assertArrayEqualsFailure(String message, Object[] expecteds, Object[] actuals, String expectedMessage)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\assertion\AssertionTest.java [Ln:331, Col:5 - Ln:339, Col:6]
+Role 'shotgunMethod' fits on 'void assertArrayEqualsFailure(String message, Object[] expecteds, Object[] actuals, String expectedMessage)' (nodeid '14686'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\assertion\AssertionTest.java [Ln:331, Col:5 - Ln:339, Col:6]
+
+Pattern 'refusedBeq' has been found on 'UnsuccessfulWithDataPointFields$DataPointFieldsMustBePublic'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\experimental\theories\runner\UnsuccessfulWithDataPointFields.java [Ln:154, Col:5 - Ln:178, Col:6]
+Role 'refBeqClass' fits on 'UnsuccessfulWithDataPointFields$DataPointFieldsMustBePublic' (nodeid '16138'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\experimental\theories\runner\UnsuccessfulWithDataPointFields.java [Ln:154, Col:5 - Ln:178, Col:6]
+	Role 'attributeIsNotUsed' fits on 'FOUR' (nodeid '16142'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\experimental\theories\runner\UnsuccessfulWithDataPointFields.java [Ln:162, Col:9 - Ln:163, Col:39]
+	Role 'attributeIsNotUsed' fits on 'FOURS' (nodeid '16143'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\experimental\theories\runner\UnsuccessfulWithDataPointFields.java [Ln:165, Col:9 - Ln:166, Col:56]
+
+Pattern 'shotgun' has been found on 'List<PotentialAssignment> potentialAssignments(Method method)'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\experimental\theories\TheoryTestUtils.java [Ln:20, Col:5 - Ln:25, Col:6]
+Role 'shotgunMethod' fits on 'List<PotentialAssignment> potentialAssignments(Method method)' (nodeid '15655'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\experimental\theories\TheoryTestUtils.java [Ln:20, Col:5 - Ln:25, Col:6]
+
+Pattern 'featureEnvy' has been found on 'void assertionErrorAtParentLevelTest()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java [Ln:170, Col:5 - Ln:183, Col:6]
+Role 'envyMethod' fits on 'void assertionErrorAtParentLevelTest()' (nodeid '18361'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java [Ln:170, Col:5 - Ln:183, Col:6]
+
+Pattern 'featureEnvy' has been found on 'void assumptionViolatedAtParentLevel()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java [Ln:196, Col:5 - Ln:209, Col:6]
+Role 'envyMethod' fits on 'void assumptionViolatedAtParentLevel()' (nodeid '18391'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java [Ln:196, Col:5 - Ln:209, Col:6]
+
+Pattern 'featureEnvy' has been found on 'void parentRunnerTestMethods()'
+Source : C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java [Ln:231, Col:5 - Ln:244, Col:6]
+Role 'envyMethod' fits on 'void parentRunnerTestMethods()' (nodeid '18400'), C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java [Ln:231, Col:5 - Ln:244, Col:6]

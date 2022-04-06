@@ -1,0 +1,118 @@
+[2022-04-02 19:15:32] Start:LIM2PatternsTask
+LIM2PatternsTool 10.0.0 Java (Build:f8fa7a1c28) - (C) 2001-2021 FrontEndART Ltd.
+Integrated 3rd party tool(s): SonarQube
+Loading: Python-3.8.6 interpreter...
+Loading pattern: C:\Users\Deyan\Downloads\SourceMeter-10.0.0-x64-Windows\Java\WindowsTools\Patterns\AntiPatterns\Blob.py
+Loading pattern: C:\Users\Deyan\Downloads\SourceMeter-10.0.0-x64-Windows\Java\WindowsTools\Patterns\AntiPatterns\FeatureEnvy.py
+Loading pattern: C:\Users\Deyan\Downloads\SourceMeter-10.0.0-x64-Windows\Java\WindowsTools\Patterns\AntiPatterns\LongFunction.py
+Loading pattern: C:\Users\Deyan\Downloads\SourceMeter-10.0.0-x64-Windows\Java\WindowsTools\Patterns\AntiPatterns\LongParameterSize.py
+Loading pattern: C:\Users\Deyan\Downloads\SourceMeter-10.0.0-x64-Windows\Java\WindowsTools\Patterns\AntiPatterns\RefusedBequest.py
+Loading pattern: C:\Users\Deyan\Downloads\SourceMeter-10.0.0-x64-Windows\Java\WindowsTools\Patterns\AntiPatterns\ShotgunSurgery.py
+Loading: C:\Users\Deyan\Downloads\JUNITMETRICS14.3\java\2022-04-02-19-10-28\sourcemeter\asg\JUNITMETRICS14.3.lim
+Loading: C:\Users\Deyan\Downloads\SourceMeter-10.0.0-x64-Windows\Java\WindowsTools\MET.rul
+Parsing and checking patterns...
+Loading: C:\Users\Deyan\Downloads\JUNITMETRICS14.3\java\2022-04-02-19-10-28\JUNITMETRICS14.3.graph
+Searching for patterns...
+Found pattern "Shotgun Surgery" on L579
+Found pattern "Shotgun Surgery" on L586
+Found pattern "Shotgun Surgery" on L661
+Found pattern "Shotgun Surgery" on L189
+Found pattern "Shotgun Surgery" on L939
+Found pattern "Shotgun Surgery" on L947
+Found pattern "Shotgun Surgery" on L953
+Found pattern "Shotgun Surgery" on L961
+Found pattern "Shotgun Surgery" on L971
+Found pattern "Shotgun Surgery" on L982
+Found pattern "Shotgun Surgery" on L1055
+Found pattern "Shotgun Surgery" on L883
+Found pattern "Shotgun Surgery" on L1213
+Found pattern "Shotgun Surgery" on L1227
+Found pattern "Shotgun Surgery" on L1238
+Found pattern "Shotgun Surgery" on L1254
+Found pattern "Shotgun Surgery" on L131
+Found pattern "Shotgun Surgery" on L144
+Found pattern "Shotgun Surgery" on L788
+Found pattern "Long Function" on L1481
+Found pattern "Shotgun Surgery" on L1673
+Found pattern "Shotgun Surgery" on L1922
+Found pattern "Shotgun Surgery" on L1939
+Found pattern "Blob" on L2997
+Found pattern "Shotgun Surgery" on L3001
+Found pattern "Shotgun Surgery" on L3007
+Found pattern "Shotgun Surgery" on L3015
+Found pattern "Shotgun Surgery" on L3005
+Found pattern "Shotgun Surgery" on L3021
+Found pattern "Shotgun Surgery" on L3023
+Found pattern "Shotgun Surgery" on L3043
+Found pattern "Shotgun Surgery" on L3055
+Found pattern "Shotgun Surgery" on L3247
+Found pattern "Shotgun Surgery" on L3251
+Found pattern "Shotgun Surgery" on L3306
+Found pattern "Shotgun Surgery" on L3362
+Found pattern "Shotgun Surgery" on L3372
+Found pattern "Shotgun Surgery" on L2802
+Found pattern "Shotgun Surgery" on L3417
+Found pattern "Shotgun Surgery" on L4106
+Found pattern "Shotgun Surgery" on L4110
+Found pattern "Shotgun Surgery" on L4284
+Found pattern "Shotgun Surgery" on L4899
+Found pattern "Shotgun Surgery" on L5090
+Found pattern "Shotgun Surgery" on L3489
+Found pattern "Long Function" on L5954
+Found pattern "Shotgun Surgery" on L6976
+Found pattern "Shotgun Surgery" on L4034
+Found pattern "Shotgun Surgery" on L4058
+Found pattern "Shotgun Surgery" on L8272
+Found pattern "Shotgun Surgery" on L8490
+Found pattern "Shotgun Surgery" on L8525
+Found pattern "Shotgun Surgery" on L8540
+Found pattern "Refused Bequest" on L10000
+Found pattern "Shotgun Surgery" on L10006
+Found pattern "Shotgun Surgery" on L4047
+Found pattern "Shotgun Surgery" on L6563
+Found pattern "Shotgun Surgery" on L786
+Found pattern "Shotgun Surgery" on L717
+Found pattern "Shotgun Surgery" on L848
+Found pattern "Shotgun Surgery" on L4632
+Found pattern "Shotgun Surgery" on L4135
+Found pattern "Shotgun Surgery" on L2713
+Found pattern "Shotgun Surgery" on L4157
+Found pattern "Shotgun Surgery" on L4570
+Found pattern "Shotgun Surgery" on L6463
+Found pattern "Shotgun Surgery" on L817
+Found pattern "Shotgun Surgery" on L819
+Found pattern "Shotgun Surgery" on L7551
+Found pattern "Shotgun Surgery" on L9383
+Found pattern "Shotgun Surgery" on L800
+Found pattern "Shotgun Surgery" on L6525
+Found pattern "Shotgun Surgery" on L4153
+Found pattern "Shotgun Surgery" on L672
+Found pattern "Shotgun Surgery" on L4159
+Found pattern "Shotgun Surgery" on L12116
+Found pattern "Shotgun Surgery" on L12120
+Found pattern "Shotgun Surgery" on L2812
+Found pattern "Shotgun Surgery" on L2815
+Found pattern "Shotgun Surgery" on L2822
+Found pattern "Shotgun Surgery" on L2825
+Found pattern "Shotgun Surgery" on L4139
+Found pattern "Shotgun Surgery" on L702
+Found pattern "Shotgun Surgery" on L677
+Found pattern "Shotgun Surgery" on L4169
+Found pattern "Shotgun Surgery" on L5005
+Found pattern "Shotgun Surgery" on L5017
+Found pattern "Shotgun Surgery" on L5009
+Found pattern "Shotgun Surgery" on L5561
+Found pattern "Shotgun Surgery" on L4363
+Found pattern "Shotgun Surgery" on L4358
+Found pattern "Shotgun Surgery" on L5480
+Found pattern "Shotgun Surgery" on L13614
+Found pattern "Shotgun Surgery" on L5482
+Found pattern "Blob" on L14660
+Found pattern "Shotgun Surgery" on L14686
+Found pattern "Refused Bequest" on L16138
+Found pattern "Shotgun Surgery" on L15655
+Found pattern "Feature Envy" on L18361
+Found pattern "Feature Envy" on L18391
+Found pattern "Feature Envy" on L18400
+Creating the output files...
+[2022-04-02 19:15:39] End:LIM2PatternsTask Result:OK

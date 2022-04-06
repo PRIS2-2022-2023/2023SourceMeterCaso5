@@ -1,0 +1,11 @@
+[2022-04-02 19:14:32] Start:PMD2GraphTask
+PMD2Graph 10.0.0 (Build:f8fa7a1c28) - (C) 2001-2021 FrontEndART Ltd.
+Integrated 3rd party tool(s): SonarQube
+Loading LIM ASG file "C:\Users\Deyan\Downloads\JUNITMETRICS14.3\java\2022-04-02-19-10-28\sourcemeter\asg\JUNITMETRICS14.3.lim"
+Loading filter file "C:\Users\Deyan\Downloads\JUNITMETRICS14.3\java\2022-04-02-19-10-28\sourcemeter\asg\JUNITMETRICS14.3.flim"
+Loading xml file "C:\Users\Deyan\Downloads\JUNITMETRICS14.3\java\2022-04-02-19-10-28\sourcemeter\temp\JUNITMETRICS14.3-PMD.xml"
+Warning: Warning 'PMD_PST' has already been added. (node:L5788 path:C:\Users\Deyan\Downloads\junit4-r4.13\src\main\java\org\junit\internal\builders\AnnotatedBuilder.java line:111 col:17 endline:112 endcol:75 text:'New exception is thrown in catch block, original stack trace may be lost')
+Warning: Warning 'PMD_UBA' has already been added. (node:L9985 path:C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\rules\RuleChainTest.java line:54 col:13 endline:54 endcol:28 text:'assertTrue(true) or similar statements are unnecessary')
+Warning: Warning 'PMD_CSB' has already been added. (node:L19326 path:C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\running\methods\TimeoutTest.java line:177 col:21 endline:177 endcol:32 text:'This statement should have braces')
+Warning: Warning 'PMD_CSB' has already been added. (node:L19327 path:C:\Users\Deyan\Downloads\junit4-r4.13\src\test\java\org\junit\tests\running\methods\TimeoutTest.java line:193 col:17 endline:193 endcol:28 text:'This statement should have braces')
+[2022-04-02 19:14:37] End:PMD2GraphTask Result:OK

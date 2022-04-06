@@ -1,0 +1,161 @@
+Number of Clone Classes: 35
+
+0~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\classes\ParentRunnerFilteringTest.java(86): 1~CloneInstance [Ln:86, Col:5 - Ln:96, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\classes\ParentRunnerFilteringTest.java(117): 2~CloneInstance [Ln:117, Col:5 - Ln:128, Col:6]
+
+3~CloneClass [Number of Clone Instances: 7, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(48): 4~CloneInstance [Ln:48, Col:9 - Ln:57, Col:72]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(84): 5~CloneInstance [Ln:84, Col:9 - Ln:93, Col:72]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(99): 6~CloneInstance [Ln:99, Col:9 - Ln:108, Col:72]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(114): 7~CloneInstance [Ln:114, Col:9 - Ln:123, Col:72]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(129): 8~CloneInstance [Ln:129, Col:9 - Ln:138, Col:72]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(144): 9~CloneInstance [Ln:144, Col:9 - Ln:153, Col:72]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(159): 10~CloneInstance [Ln:159, Col:9 - Ln:168, Col:72]
+
+11~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\assertion\AssertionTest.java(943): 12~CloneInstance [Ln:943, Col:9 - Ln:953, Col:60]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\assertion\AssertionTest.java(961): 13~CloneInstance [Ln:961, Col:9 - Ln:971, Col:60]
+
+14~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\runners\model\FrameworkMethod.java(25): 15~CloneInstance [Ln:25, Col:5 - Ln:40, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\runners\model\FrameworkField.java(22): 16~CloneInstance [Ln:22, Col:5 - Ln:37, Col:6]
+
+17~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java(170): 18~CloneInstance [Ln:170, Col:5 - Ln:183, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java(196): 19~CloneInstance [Ln:196, Col:5 - Ln:209, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\classes\ParentRunnerTest.java(231): 20~CloneInstance [Ln:231, Col:5 - Ln:244, Col:6]
+
+21~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\theories\runner\UnsuccessfulWithDataPointFields.java(180): 22~CloneInstance [Ln:180, Col:5 - Ln:191, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\theories\runner\UnsuccessfulWithDataPointFields.java(231): 23~CloneInstance [Ln:231, Col:5 - Ln:242, Col:6]
+
+24~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\junit3compatibility\ForwardCompatibilityPrintingTest.java(32): 25~CloneInstance [Ln:32, Col:9 - Ln:45, Col:36]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\junit3compatibility\ForwardCompatibilityPrintingTest.java(65): 26~CloneInstance [Ln:65, Col:9 - Ln:78, Col:36]
+
+27~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\assertion\AssertionTest.java(537): 28~CloneInstance [Ln:537, Col:5 - Ln:546, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\assertion\AssertionTest.java(584): 29~CloneInstance [Ln:584, Col:5 - Ln:593, Col:6]
+
+30~CloneClass [Number of Clone Instances: 4, Lines of Code: 14]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\methods\AnnotationTest.java(464): 31~CloneInstance [Ln:464, Col:9 - Ln:477, Col:10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\methods\AnnotationTest.java(493): 32~CloneInstance [Ln:493, Col:9 - Ln:506, Col:10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\methods\AnnotationTest.java(550): 33~CloneInstance [Ln:550, Col:9 - Ln:563, Col:10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\methods\AnnotationTest.java(568): 34~CloneInstance [Ln:568, Col:9 - Ln:581, Col:10]
+
+35~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\junit\samples\money\MoneyTest.java(77): 36~CloneInstance [Ln:77, Col:12 - Ln:86, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\samples\money\MoneyTest.java(95): 37~CloneInstance [Ln:95, Col:12 - Ln:104, Col:6]
+
+38~CloneClass [Number of Clone Instances: 4, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\theories\internal\SpecificDataPointsSupplierTest.java(69): 39~CloneInstance [Ln:69, Col:5 - Ln:78, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\theories\internal\SpecificDataPointsSupplierTest.java(80): 40~CloneInstance [Ln:80, Col:5 - Ln:89, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\theories\internal\SpecificDataPointsSupplierTest.java(91): 41~CloneInstance [Ln:91, Col:5 - Ln:100, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\theories\internal\SpecificDataPointsSupplierTest.java(102): 42~CloneInstance [Ln:102, Col:5 - Ln:111, Col:6]
+
+43~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\assertion\MultipleFailureExceptionTest.java(36): 44~CloneInstance [Ln:36, Col:5 - Ln:46, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\assertion\MultipleFailureExceptionTest.java(48): 45~CloneInstance [Ln:48, Col:5 - Ln:58, Col:6]
+
+46~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\runner\JUnitCommandLineParseResultTest.java(69): 47~CloneInstance [Ln:69, Col:5 - Ln:80, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\runner\JUnitCommandLineParseResultTest.java(119): 48~CloneInstance [Ln:119, Col:5 - Ln:130, Col:6]
+
+49~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\junit\samples\money\MoneyTest.java(18): 50~CloneInstance [Ln:18, Col:5 - Ln:27, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\samples\money\MoneyTest.java(27): 51~CloneInstance [Ln:27, Col:5 - Ln:36, Col:6]
+
+52~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\rules\TimeoutRuleTest.java(126): 53~CloneInstance [Ln:126, Col:5 - Ln:137, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\rules\TimeoutRuleTest.java(139): 54~CloneInstance [Ln:139, Col:5 - Ln:150, Col:6]
+
+55~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\assertion\AssertionTest.java(372): 56~CloneInstance [Ln:372, Col:5 - Ln:381, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\assertion\AssertionTest.java(572): 57~CloneInstance [Ln:572, Col:5 - Ln:582, Col:6]
+
+58~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\max\MaxStarterTest.java(251): 59~CloneInstance [Ln:251, Col:5 - Ln:262, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\max\MaxStarterTest.java(280): 60~CloneInstance [Ln:280, Col:5 - Ln:291, Col:6]
+
+61~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\max\MaxStarterTest.java(74): 62~CloneInstance [Ln:74, Col:5 - Ln:84, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\experimental\max\MaxStarterTest.java(91): 63~CloneInstance [Ln:91, Col:5 - Ln:101, Col:6]
+
+64~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(96): 65~CloneInstance [Ln:96, Col:5 - Ln:109, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(111): 66~CloneInstance [Ln:111, Col:5 - Ln:124, Col:6]
+
+67~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\rules\StopwatchTest.java(168): 68~CloneInstance [Ln:168, Col:5 - Ln:177, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\rules\StopwatchTest.java(179): 69~CloneInstance [Ln:179, Col:5 - Ln:188, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\rules\StopwatchTest.java(190): 70~CloneInstance [Ln:190, Col:5 - Ln:199, Col:6]
+
+71~CloneClass [Number of Clone Instances: 5, Lines of Code: 14]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(45): 72~CloneInstance [Ln:45, Col:5 - Ln:58, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(81): 73~CloneInstance [Ln:81, Col:5 - Ln:94, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(126): 74~CloneInstance [Ln:126, Col:5 - Ln:139, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(141): 75~CloneInstance [Ln:141, Col:5 - Ln:154, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\StackTracesTest.java(156): 76~CloneInstance [Ln:156, Col:5 - Ln:169, Col:6]
+
+77~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\runner\FilterOptionIntegrationTest.java(51): 78~CloneInstance [Ln:51, Col:5 - Ln:68, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\runner\FilterOptionIntegrationTest.java(70): 79~CloneInstance [Ln:70, Col:5 - Ln:87, Col:6]
+
+80~CloneClass [Number of Clone Instances: 4, Lines of Code: 11]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\runner\notification\RunNotifierTest.java(48): 81~CloneInstance [Ln:48, Col:5 - Ln:58, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\runner\notification\RunNotifierTest.java(60): 82~CloneInstance [Ln:60, Col:5 - Ln:70, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\runner\notification\RunNotifierTest.java(72): 83~CloneInstance [Ln:72, Col:5 - Ln:82, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\runner\notification\RunNotifierTest.java(84): 84~CloneInstance [Ln:84, Col:5 - Ln:94, Col:6]
+
+85~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\runners\statements\ExpectExceptionTest.java(18): 86~CloneInstance [Ln:18, Col:5 - Ln:29, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\internal\runners\statements\ExpectExceptionTest.java(31): 87~CloneInstance [Ln:31, Col:5 - Ln:42, Col:6]
+
+88~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\runners\model\TestClass.java(317): 89~CloneInstance [Ln:317, Col:9 - Ln:326, Col:43]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\runners\parameterized\TestWithParameters.java(57): 90~CloneInstance [Ln:57, Col:9 - Ln:66, Col:61]
+
+91~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\methods\AnnotationTest.java(464): 92~CloneInstance [Ln:464, Col:9 - Ln:477, Col:10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\methods\AnnotationTest.java(550): 93~CloneInstance [Ln:550, Col:9 - Ln:563, Col:10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\running\methods\AnnotationTest.java(568): 94~CloneInstance [Ln:568, Col:9 - Ln:581, Col:10]
+
+95~CloneClass [Number of Clone Instances: 4, Lines of Code: 16]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\experimental\theories\internal\SpecificDataPointsSupplier.java(22): 96~CloneInstance [Ln:22, Col:5 - Ln:37, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\experimental\theories\internal\SpecificDataPointsSupplier.java(39): 97~CloneInstance [Ln:39, Col:5 - Ln:54, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\experimental\theories\internal\SpecificDataPointsSupplier.java(56): 98~CloneInstance [Ln:56, Col:5 - Ln:71, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\experimental\theories\internal\SpecificDataPointsSupplier.java(73): 99~CloneInstance [Ln:73, Col:5 - Ln:88, Col:6]
+
+100~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\junit\tests\extensions\ExtensionTest.java(71): 101~CloneInstance [Ln:71, Col:9 - Ln:84, Col:40]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\junit\tests\extensions\ExtensionTest.java(88): 102~CloneInstance [Ln:88, Col:9 - Ln:101, Col:35]
+
+103~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\junit\tests\framework\TestCaseTest.java(63): 104~CloneInstance [Ln:63, Col:5 - Ln:75, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\junit\tests\framework\TestCaseTest.java(102): 105~CloneInstance [Ln:102, Col:5 - Ln:114, Col:6]
+
+106~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\Assert.java(603): 107~CloneInstance [Ln:603, Col:5 - Ln:612, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\Assert.java(614): 108~CloneInstance [Ln:614, Col:5 - Ln:623, Col:6]
+
+109~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\experimental\theories\Theories.java(88): 110~CloneInstance [Ln:88, Col:5 - Ln:102, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\experimental\theories\Theories.java(104): 111~CloneInstance [Ln:104, Col:5 - Ln:118, Col:6]
+
+112~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\rules\EventCollector.java(24): 113~CloneInstance [Ln:24, Col:13 - Ln:33, Col:14]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\rules\EventCollector.java(55): 114~CloneInstance [Ln:55, Col:13 - Ln:64, Col:14]
+
+115~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\experimental\theories\internal\AllMembersSupplier.java(178): 116~CloneInstance [Ln:178, Col:5 - Ln:187, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\experimental\theories\internal\AllMembersSupplier.java(189): 117~CloneInstance [Ln:189, Col:5 - Ln:198, Col:6]
+
+118~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\runners\model\TestClass.java(226): 119~CloneInstance [Ln:226, Col:5 - Ln:236, Col:6]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\main\java\org\junit\runners\model\TestClass.java(260): 120~CloneInstance [Ln:260, Col:5 - Ln:270, Col:6]
+
+121~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\org\junit\tests\junit3compatibility\ForwardCompatibilityPrintingTest.java(36): 122~CloneInstance [Ln:36, Col:9 - Ln:54, Col:51]
+C:\Users\Deyan\Downloads\junit4-r4.13.2\src\test\java\junit\tests\runner\TextFeedbackTest.java(98): 123~CloneInstance [Ln:98, Col:9 - Ln:114, Col:51]
+

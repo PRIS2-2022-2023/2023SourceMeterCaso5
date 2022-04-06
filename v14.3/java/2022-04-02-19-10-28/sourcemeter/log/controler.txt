@@ -1,0 +1,37 @@
+  [2022-04-02 19:10:28] Starting task:          DirectoryBasedAnalysisTask
+  [2022-04-02 19:13:17] Task ended (+00:02:49): DirectoryBasedAnalysisTask     Result:OK
+  [2022-04-02 19:13:17] Starting task:          JANFilterTask
+  [2022-04-02 19:13:20] Task ended (+00:00:03): JANFilterTask                  Result:OK
+  [2022-04-02 19:13:20] Starting task:          JAN2limTask
+  [2022-04-02 19:13:55] Task ended (+00:00:35): JAN2limTask                    Result:OK
+  [2022-04-02 19:13:55] Starting task:          Lim2metricsTask
+  [2022-04-02 19:13:55] Starting task:          ProfileTask
+  [2022-04-02 19:13:57] Task ended (+00:00:02): ProfileTask                    Result:OK
+  [2022-04-02 19:13:57] Starting task:          DcfTask
+  [2022-04-02 19:14:04] Task ended (+00:00:09): Lim2metricsTask                Result:OK
+  [2022-04-02 19:14:04] Starting task:          AndroidHunterTask
+  [2022-04-02 19:14:07] Task ended (+00:00:03): AndroidHunterTask              Result:OK
+  [2022-04-02 19:14:07] Starting task:          FaultHunterTask
+  [2022-04-02 19:14:09] Task ended (+00:00:02): FaultHunterTask                Result:OK
+  [2022-04-02 19:14:09] Starting task:          VulnerabilityHunterTask
+  [2022-04-02 19:14:11] Task ended (+00:00:02): VulnerabilityHunterTask        Result:OK
+  [2022-04-02 19:14:11] Starting task:          FindBugsTask
+  [2022-04-02 19:14:29] Task ended (+00:00:18): FindBugsTask                   Result:OK
+  [2022-04-02 19:14:29] Starting task:          RTEHunterTask
+  [2022-04-02 19:14:32] Task ended (+00:00:03): RTEHunterTask                  Result:OK
+  [2022-04-02 19:14:32] Starting task:          PMD2GraphTask
+  [2022-04-02 19:14:36] Task ended (+00:00:39): DcfTask                        Result:OK
+  [2022-04-02 19:14:37] Task ended (+00:00:05): PMD2GraphTask                  Result:OK
+  [2022-04-02 19:14:37] Starting task:          GraphMergeTask
+  [2022-04-02 19:14:47] Task ended (+00:00:10): GraphMergeTask                 Result:OK
+  [2022-04-02 19:14:47] Starting task:          MetricHunterTask
+  [2022-04-02 19:15:32] Task ended (+00:00:45): MetricHunterTask               Result:OK
+  [2022-04-02 19:15:32] Starting task:          UserDefinedMetricsTask
+  [2022-04-02 19:15:32] Task ended (+00:00:00): UserDefinedMetricsTask         Result:OK
+  [2022-04-02 19:15:32] Starting task:          LIM2PatternsTask
+  [2022-04-02 19:15:39] Task ended (+00:00:07): LIM2PatternsTask               Result:OK
+  [2022-04-02 19:15:39] Starting task:          AddLicenceTask
+  [2022-04-02 19:15:42] Task ended (+00:00:03): AddLicenceTask                 Result:OK
+  [2022-04-02 19:15:42] Starting task:          GraphDumpTask
+  [2022-04-02 19:16:26] Task ended (+00:00:44): GraphDumpTask                  Result:OK
+Done!
