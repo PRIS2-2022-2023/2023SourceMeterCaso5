@@ -1,6 +1,0 @@
-SourceMeterJava
--projectName=JUNIT
--projectBaseDir=C:\Users\Deyan\Downloads\junit4-r4.13.2
--resultsDir=C:\Users\Deyan\Downloads
--runFB=true
--FBFileList=filelist.txt
